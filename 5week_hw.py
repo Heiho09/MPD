@@ -16,3 +16,5 @@ def add_numbers(a, b):
 if __name__ == "__main__":
     result = add_numbers(3, 5)
     print(f"결과: {result}")
+    
+# branch03에서 추가됨
